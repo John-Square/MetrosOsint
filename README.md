@@ -1,6 +1,8 @@
 # Metros Open Source Intelligence
 ## Description
 The program was created for storing/storing/sending personal data of users.
+<br>
+![Alt-текст](https://cdn-icons-png.flaticon.com/128/286/286436.png "Metros Osint")
 ## Installation
 - Python 3.8
 ```
@@ -91,11 +93,11 @@ Sample data:
   • SIP
   • Note
   • Facebook
-  • vk
+  • Vk
   • Twitter
   • Ok
   • Youtube
-  • whatsapp
+  • Whatsapp
   • Viber
   • Tik Tok
   • Instagram
@@ -108,3 +110,9 @@ Key:
   213 — Relative.
   214 — Colleague/friend.
 ```
+## Technical support
+- metrostechnicalsupp0rt@gmail.com
+## Developer site
+- [metros-software.ru](http://metros-software.ru)
+<br>
+Thank you!
