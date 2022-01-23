@@ -6,13 +6,12 @@ The program was created for storing/storing/sending personal data of users.
 ## Installation
 - Python 3.8
 ```
-pip install -r requirements.txt
-```
-```
 git clone https://github.com/John-Square/MetrosOsint/
 cd MetrosOsint
+pip3 install -r requirements.txt
 python3 MetrosOsint.py
 ```
+
 ## Usage
 - Displaying the current version of the program
 ```
@@ -61,7 +60,7 @@ Data input:
 ```
 archive — Work with archives.
 Syntax:
-  --archive   — [path:path_rar] Example: archive.rar:file.txt"
+  --archive   — [path:path_rar] Example: archive.rar:file.txt
   --unzipping — [path_rar:path] Example: archive.rar:folder
 ```
 ### Using the profile command
