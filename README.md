@@ -88,7 +88,7 @@ Sample data:
   • Postal address
   • Address
   • Website
-  • date of birth
+  • Date of birth
   • SIP
   • Note
   • Facebook
