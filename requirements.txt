@@ -1,0 +1,6 @@
+cryptocode
+stdiomask
+patool
+pyfiglet
+pyunpack
+colorama
