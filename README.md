@@ -1,8 +1,8 @@
-# Metros Open Source Intelligence
+# Metros Storing surface data of users
 ## Description
 The program was created for storing/storing/sending personal data of users.
 <br>
-![Alt-текст](https://cdn-icons-png.flaticon.com/128/286/286436.png "Metros Osint")
+![Alt-текст](https://cdn-icons-png.flaticon.com/128/286/286436.png "Metros Storing surface data of users")
 ## Installation
 - Python 3.8
 ```
